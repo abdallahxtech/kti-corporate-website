@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 530" fill="none">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0D2E4A"/><stop offset="1" stop-color="#0B172C"/></linearGradient><linearGradient id="pipe" x2=".4" y2="1"><stop stop-color="#81AEC5"/><stop offset=".5" stop-color="#284C67"/><stop offset="1" stop-color="#9FC9DC"/></linearGradient></defs>
+<rect width="750" height="530" rx="18" fill="url(#bg)"/>
+<g stroke="#80CCEA" opacity=".13"><path d="M0 80H750M0 160H750M0 240H750M0 320H750M0 400H750M0 480H750M100 0V530M200 0V530M300 0V530M400 0V530M500 0V530M600 0V530M700 0V530"/></g>
+<g transform="translate(120 190) rotate(-19 250 100)"><rect x="65" y="12" width="485" height="180" rx="90" fill="url(#pipe)" stroke="#A3CDE1" stroke-width="3"/><ellipse cx="66" cy="102" rx="64" ry="90" fill="#214E6B" stroke="#8CC9DF" stroke-width="5"/><ellipse cx="66" cy="102" rx="39" ry="59" fill="#082B45" stroke="#4CA1C3" stroke-width="4"/><ellipse cx="550" cy="102" rx="42" ry="88" fill="#1B4058" stroke="#9ABCD0" stroke-width="3"/><path d="M230 13v178M250 13v178M385 13v178" stroke="#B6DFED" stroke-width="6" opacity=".46"/><g stroke="#84DEF4" stroke-width="3" opacity=".8"><path d="M300 12l32 180m-9-180l32 180m-9-180l32 180"/></g></g>
+<g stroke="#60D7F0" stroke-width="3"><circle cx="470" cy="222" r="94" stroke-dasharray="8 12"/><circle cx="470" cy="222" r="49"/><path d="M470 98v250M345 222h250" stroke-width="1.5" opacity=".65"/></g><circle cx="470" cy="222" r="8" fill="#F8BC69"/><path d="M544 148L650 78h61" stroke="#66D7E9" stroke-width="2"/><path d="M650 64h54v29h-54z" stroke="#66D7E9"/><text x="658" y="84" fill="#DDF9FC" font-size="12" font-family="sans-serif">UT</text>
+<path d="M75 76h180M75 92h113M75 108h152" stroke="#6FBEDB" stroke-width="4" stroke-linecap="round" opacity=".4"/>
+<text x="46" y="474" fill="#BBD4E0" font-family="sans-serif" font-size="16" letter-spacing="3">QUALITY INSPECTION // TECHNICAL ASSURANCE</text>
+</svg>

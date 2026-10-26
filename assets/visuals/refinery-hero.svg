@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 920" role="img" aria-label="Illustration of a sophisticated industrial refinery at night">
+<defs>
+ <linearGradient id="sky" x2=".2" y2="1"><stop stop-color="#09152c"/><stop offset=".55" stop-color="#11284a"/><stop offset="1" stop-color="#07233b"/></linearGradient>
+ <radialGradient id="glow" cx="73%" cy="64%" r="58%"><stop stop-color="#46b7dd" stop-opacity=".38"/><stop offset=".5" stop-color="#1d5684" stop-opacity=".12"/><stop offset="1" stop-color="#0a152c" stop-opacity="0"/></radialGradient>
+ <linearGradient id="steel" x2="1" y2=".45"><stop stop-color="#172f4a"/><stop offset=".5" stop-color="#41657e"/><stop offset="1" stop-color="#0b253d"/></linearGradient>
+ <linearGradient id="tank" x2="1" y2="0"><stop stop-color="#1e4766"/><stop offset=".42" stop-color="#52738a"/><stop offset="1" stop-color="#16334b"/></linearGradient>
+ <linearGradient id="floor" x2="0" y2="1"><stop stop-color="#12283f"/><stop offset="1" stop-color="#061325"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+ <pattern id="steel-grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#88b0ca" stroke-width=".6" opacity=".16"/></pattern>
+ <filter id="light"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect width="1600" height="920" fill="url(#sky)"/><rect width="1600" height="920" fill="url(#glow)"/>
+<g opacity=".24" stroke="#b4e1f3" fill="none"><path d="M0 144H1600M0 264H1600M0 384H1600M0 504H1600M0 624H1600M0 744H1600M0 864H1600" stroke-dasharray="2 18"/><path d="M80 0V920M280 0V920M480 0V920M680 0V920M880 0V920M1080 0V920M1280 0V920M1480 0V920" stroke-dasharray="2 18"/></g>
+<circle cx="1200" cy="320" r="260" fill="#288acb" opacity=".17" filter="url(#blur)"/><circle cx="1310" cy="210" r="3" fill="#76dbed"/>
+<!-- distant industrial structures -->
+<g opacity=".38" fill="#0b243a"><path d="M0 640V513h24V453h42v187h37V505h37v135h43V565h58v75h44V447h50v193h38V494h40v146h60V583h68v57h45V492h39v148h75V577h62v63h60V460h42v180h90V546h57v94h65V516h50v124h92V560h49v80h57V513h50v127h40V494h35v146h52V569h55v71h50v-90h38v90h70v-70h45v70h53V520h52v120h78V575h52v65h64v280H0z"/></g>
+<ellipse cx="1050" cy="760" rx="560" ry="128" fill="#2a9ac1" opacity=".21" filter="url(#blur)"/>
+<!-- distillation towers -->
+<g>
+<rect x="990" y="152" width="87" height="580" rx="26" fill="url(#steel)" stroke="#739eb5" stroke-width="2"/>
+<rect x="1014" y="105" width="38" height="52" fill="#3e637c" stroke="#83a2b6"/>
+<rect x="1021" y="68" width="23" height="40" fill="#436b83"/>
+<g stroke="#94c3d9" stroke-width="3" opacity=".68"><path d="M983 215h101M983 298h101M983 389h101M983 489h101M983 588h101M983 678h101"/><path d="M997 165v542M1068 165v542"/></g>
+<g fill="none" stroke="#5b92b0" stroke-width="4"><path d="M987 216l96 82-96 91 96 100-96 100 96 89"/><path d="M1082 216l-95 82 95 91-95 100 95 100-95 89"/></g>
+<rect x="1162" y="259" width="70" height="461" rx="28" fill="url(#steel)" stroke="#7db0c9" stroke-width="2"/><rect x="1182" y="216" width="31" height="48" fill="#497c96"/><path d="M1170 313h54m-54 81h54m-54 81h54m-54 81h54m-54 81h54" stroke="#acd4e5" stroke-width="3"/><path d="M1149 330h96m-96 160h96m-96 160h96" stroke="#71a7c3" stroke-width="8"/>
+<rect x="1338" y="307" width="95" height="427" rx="23" fill="url(#steel)" stroke="#6faccd" stroke-width="2"/><rect x="1367" y="244" width="35" height="70" fill="#406981"/><path d="M1333 370h109m-109 82h109m-109 82h109m-109 82h109m-109 74h109" stroke="#87b8cf" stroke-width="4"/>
+<path d="M1384 238v-31" stroke="#d6e5f0" stroke-width="5"/><circle cx="1384" cy="207" r="8" fill="#f8b65d"/><circle cx="1384" cy="207" r="23" fill="#f8b65d" opacity=".27" filter="url(#light)"/>
+</g>
+<!-- construction crane -->
+<g opacity=".85" stroke="#78bbd9" fill="none" stroke-width="4"><path d="M760 734V174l-34-37h67l-33 37M688 136h402M760 164l150-28M760 164l-72-28M768 168l-42 85 34 52-34 59 34 60-34 61 34 59-34 60 34 60-34 69"/><path d="M971 136v220m0 0-16 27h34z" stroke-width="3"/><path d="M690 136l70 52 72-52" stroke-width="2"/></g>
+<!-- pipe racks -->
+<g fill="none" stroke="#91c0d5" stroke-width="8" opacity=".88"><path d="M550 630h395v38H605v42h605V592h315"/><path d="M520 677h400v44h357v-72h250" stroke="#5088ab"/><path d="M682 640V502h120v-75h180"/><path d="M1257 685v-55h250" stroke="#749db6"/><path d="M850 743v-57h102" stroke="#7aabca"/></g>
+<g fill="#c8a25d"><rect x="728" y="622" width="9" height="11"/><rect x="876" y="622" width="9" height="11"/><rect x="1228" y="669" width="9" height="11"/></g>
+<!-- cylindrical storage tanks -->
+<g>
+<rect x="505" y="666" width="198" height="136" fill="url(#tank)"/><ellipse cx="604" cy="666" rx="99" ry="25" fill="#6697ad" stroke="#add7e7" stroke-width="2"/><ellipse cx="604" cy="803" rx="99" ry="22" fill="#173a52"/><path d="M516 706h177M516 740h177M516 774h177" stroke="#8eafc1" opacity=".46" stroke-width="2"/>
+<rect x="727" y="718" width="151" height="98" fill="url(#tank)"/><ellipse cx="803" cy="718" rx="76" ry="19" fill="#6a92a8"/><ellipse cx="803" cy="817" rx="76" ry="16" fill="#0a2f46"/>
+<rect x="1431" y="690" width="157" height="120" fill="url(#tank)"/><ellipse cx="1509" cy="690" rx="79" ry="20" fill="#6396b4"/><ellipse cx="1509" cy="810" rx="79" ry="19" fill="#17364c"/>
+</g>
+<!-- building and factory -->
+<path d="M914 700h275v132H914z" fill="#27465e" stroke="#688eaa" stroke-width="2"/><path d="M914 700l45-42h275l-45 42" fill="#2e5873"/><path d="M959 658v42" stroke="#9ac3d4"/><g fill="#eab46b" opacity=".8"><rect x="937" y="737" width="19" height="21"/><rect x="973" y="737" width="19" height="21"/><rect x="1010" y="737" width="19" height="21"/><rect x="1047" y="737" width="19" height="21"/><rect x="1084" y="737" width="19" height="21"/><rect x="1120" y="737" width="19" height="21"/></g>
+<g stroke="#65b1d5" stroke-width="2" opacity=".86" fill="none"><path d="M505 807h1085M545 642v180m96-180v180M1272 630v185M1305 630v185"/><path d="M495 643h238m527-22h235" stroke-width="6"/></g>
+<!-- illuminated floor -->
+<path d="M0 813h1600v107H0z" fill="url(#floor)"/><path d="M0 817h1600" stroke="#93cfe2" opacity=".5" stroke-width="2"/>
+<path d="M0 852h1600M0 901h1600" stroke="#50b3c7" opacity=".11" stroke-width="2"/>
+<g fill="#fbc87b"><circle cx="520" cy="714" r="4"/><circle cx="652" cy="644" r="4"/><circle cx="1197" cy="532" r="4"/><circle cx="1421" cy="648" r="4"/><circle cx="867" cy="658" r="4"/><circle cx="988" cy="392" r="4"/></g>
+<path d="M0 0h1600v920H0z" fill="url(#steel-grid)" opacity=".20"/>
+</svg>

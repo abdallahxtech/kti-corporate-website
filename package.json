@@ -1,0 +1,11 @@
+{
+  "name": "kti-corporate-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Production-friendly, zero-build KTI corporate website",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "test": "python3 tests/smoke.py"
+  },
+  "license": "UNLICENSED"
+}
